@@ -10,8 +10,7 @@ El sistema está orientado a mejorar la operación logística mediante control d
 
 - Catrina Corral
 - Fernanda Manríquez
-- Equipo Aravena, Corral y Manríquez
-
+- Anais Aravena
 ---
 
 ## Descripción general del proyecto
